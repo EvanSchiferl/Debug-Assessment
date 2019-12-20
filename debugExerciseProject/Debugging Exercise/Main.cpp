@@ -26,12 +26,14 @@ using std::endl;
 
 bool marineAlive()
 {
-	for ()
-	{
-		return
-	}
+	return true;
 }
-bool zerglingAlive();
+
+	
+bool zerglingAlive()
+{
+	return true;
+}
 
 int squadSize;
 

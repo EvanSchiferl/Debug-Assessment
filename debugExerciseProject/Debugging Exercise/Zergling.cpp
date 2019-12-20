@@ -1,7 +1,7 @@
 #include "Zergling.h"
 #include "Entity.h"
 
-int health;
+static int health;
 
 Zergling::Zergling()
 {
