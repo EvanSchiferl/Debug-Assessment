@@ -1,0 +1,5 @@
+﻿  Marine.cpp
+Zergling.obj : error LNK2005: "int health" (?health@@3HA) already defined in Marine.obj
+Main.obj : error LNK2019: unresolved external symbol "bool __cdecl marineAlive(void)" (?marineAlive@@YA_NXZ) referenced in function main
+Main.obj : error LNK2019: unresolved external symbol "bool __cdecl zerglingAlive(void)" (?zerglingAlive@@YA_NXZ) referenced in function main
+C:\Users\s199079\Downloads\debugExerciseProject\x64\Debug\Debugging Exercise.exe : fatal error LNK1120: 2 unresolved externals
