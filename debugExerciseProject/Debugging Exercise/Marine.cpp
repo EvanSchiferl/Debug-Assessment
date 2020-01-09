@@ -6,6 +6,7 @@ static int health;
 Marine::Marine()
 {
 	int health = 50;
+	
 }
 
 
@@ -32,6 +33,7 @@ void Marine::takeDamage(int damage)
 
 bool Marine::marineAlive()
 {
+	
 	return health > 0;
 }
 

@@ -6,7 +6,8 @@ public:
 	bool zerglingAlive();
 	bool isAlive;
 	int swarm();
-	
+	int health = 20;
+
 	Zergling();
 	~Zergling();
 

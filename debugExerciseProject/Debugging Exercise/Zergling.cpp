@@ -32,5 +32,5 @@ void Zergling::takeDamage(int damage)
 
 bool Zergling::zerglingAlive()
 {
-	return health = 0;
+	return health > 0;
 }
