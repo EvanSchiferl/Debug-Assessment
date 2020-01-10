@@ -1,5 +1,6 @@
 #include "Marine.h"
 #include "Entity.h"
+#include <stdlib.h>
 
 static int health;
 
